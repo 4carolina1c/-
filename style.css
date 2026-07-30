@@ -8,6 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #a864f7;
 }
 
 .cartao {
@@ -23,4 +24,8 @@ body {
     display: flex;
     flex-direction: column;
     min-width: 100vh;
+}
+
+main {
+    flex: 1;
 }
