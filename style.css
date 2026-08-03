@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #a864f7;
+    background-color: #9e5de9;
 }
 
 .cartao {
@@ -42,7 +42,7 @@ h1 {
 }
 
 footer {
-    background-color: #a864f7;
+    background-color: #9e5de9;
     padding: 15px, 25px;
     color: #fff;
 }
