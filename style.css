@@ -48,5 +48,9 @@ footer {
 }
 
 .cartao-interno {
-    
+    position: relative;
+}
+
+.cartao-frente, .cartao-verso {
+    position: absolute;
 }
